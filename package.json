@@ -1,0 +1,15 @@
+{
+  "name": "skew-twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tracer-protocol/pools-js": "^0.0.18",
+    "ethers": "^5.5.2"
+  }
+}
