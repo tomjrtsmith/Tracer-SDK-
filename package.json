@@ -9,7 +9,7 @@
   "author": "raymogg",
   "license": "ISC",
   "dependencies": {
-    "@tracer-protocol/pools-js": "^0.0.18",
+    "@tracer-protocol/pools-js": "^0.0.23",
     "ethers": "^5.5.2"
   }
 }
