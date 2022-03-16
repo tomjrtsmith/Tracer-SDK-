@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@tracer-protocol/pools-js": "^0.0.18",
-    "ethers": "^5.5.2"
+    "ethers": "^5.5.4"
   }
 }
